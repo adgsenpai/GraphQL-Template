@@ -2,7 +2,13 @@
 Typescript, GraphQL Template
 
 ### Getting Started
-You should run
+You should run maybe
+
+```
+npm i
+```
+
+then
 
 ```
 npm start
